@@ -3,6 +3,10 @@ layout: default
 title: Home
 ---
 
-# Placeholder brochure
+# Evidence before opinion.
 
-Replace this page with the studio's public introduction.
+Northwind Fieldwork is a workplace design consultancy. We help ambitious
+organisations turn messy human evidence into confident product and brand
+decisions across consumer health, financial services and mobility.
+
+Our studios in Porto, Lisbon and Amsterdam work as one team.
